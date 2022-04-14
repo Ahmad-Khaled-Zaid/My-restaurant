@@ -1,2 +1,2 @@
-![wireFrame](./bluePrint.png)
+![wireFrame](./WireFrame.png)
 
